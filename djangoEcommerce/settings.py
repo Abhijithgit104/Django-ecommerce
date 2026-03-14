@@ -122,5 +122,5 @@ USE_TZ = True
 TEMPLATES[0]['DIRS'] = [BASE_DIR / 'templates']
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS = [BASE_DIR / 'static']
+# STATICFILES_DIRS = [BASE_DIR / 'static']
 
